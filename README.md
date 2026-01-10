@@ -26,6 +26,8 @@ $ pip install --index-url https://test.pypi.org/simple/
 
 ## Usage
 
+Run these commands on a python shell or file.
+
 ```python
 from is_palindrome_purityj import is_palindrome
 
